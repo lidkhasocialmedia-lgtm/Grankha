@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ruta actualizada al dominio real
+Sitemap: https://grankha.vercel.app/sitemap.xml
